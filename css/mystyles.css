@@ -1,0 +1,11 @@
+/*This is my CSS file */
+/* #cea3f7 -- lavander*/
+
+body{background-color: #cea3f7; margin:0; padding: 0; text-align: center;}
+h1{font-family: 'Rubik', sans-serif; color:#ffffff; text-align: center; 
+background-color:#494568; margin:0; padding:0; body:300pt; padding-top:4%; 
+height: 80px; text-shadow: 5px 5px #000000}
+h2{font-family: 'Rubik', sans-serif; color:#ffffff; text-align: center;}
+p{ font-family: 'Rubik', sans-serif; color:#ffffff;  text-align: center;}
+#TopPic{text-align:center; background-image: url(../images/blupurp.jpeg);
+	background-size:cover;
